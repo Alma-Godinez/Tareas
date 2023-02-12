@@ -1,4 +1,4 @@
-**SOLUCIÓN TAREA UNIDAD 2**
+# **SOLUCIÓN TAREA UNIDAD 2**
 
 La tarea o actividad de la unidad 2 fue basada en una calculadora de estaciones creada por medio de JavaScrip.
 Para empezar a buscar la solución de la actividad realicé los siguientes pasos.
